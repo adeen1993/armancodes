@@ -13,7 +13,7 @@ its my git hub not adeens
         .para{
             height: 100%;
             width: 100%;
-            background-color: black;
+            background-color: red;
             color: white;
         }
         .body{
